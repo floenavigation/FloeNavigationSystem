@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color> -->
+    <color name="accent_material_light">#d2f6a8</color>
+    <color name="primary_dark_material_light">#a2f4ec</color>
+    <color name="primary_material_light">#f5f5f5</color>
+
+    <!--
+    <color name="colorPrimary">#ffc107</color>
+    <color name="colorPrimaryDark">#ffa000</color>
+    <color name="colorAccent">#ff4081</color> -->
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffff00</color>
+    <color name="green">#00bfa5</color>
+    <color name="aqua">#7fffd4</color>
+    <color name="maroon">#b03060</color>
+    <color name="orange">#ffa500</color>
+
+    <!-- login screen -->
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="gradStart">#19AA8B</color>
+    <color name="gradStop">#23A7D8</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#23A7D8</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="darkblue">#303F9F</color>
+
+    <color name="darkgray">#6c6c6c</color>
+    <color name="colorGreenLight">#abffc0</color>
+    <color name="colorGreen">#247b37</color>
+    <color name="black">#000000</color>
+    <color name="transparentBlack">#66000000</color>
+
+</resources>
